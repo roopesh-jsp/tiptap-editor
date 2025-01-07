@@ -1,5 +1,5 @@
 import React from "react";
-import Toolbar from "./toolbar";
+import Toolbar from "./Toolbar";
 import { EditorContent, useEditor } from "@tiptap/react";
 import StarterKit from "@tiptap/starter-kit";
 import { Lowercase } from "../extentions-tiptap/lowercase";
